@@ -1,8 +1,8 @@
 
 provider "aws" {
   region     = "eu-north-1"
-  access_key = "AKIAZI2LIL7HUBKVT3YF"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
 }
 #estructura de la red
 
